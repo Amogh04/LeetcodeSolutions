@@ -1,9 +1,11 @@
-<div style="width:50px; display:inline-block; margin:0px 20px; margin-right:70px;"><img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"></div>
 <h1 style=" font-family:cursive; font-size:46px; display:inline-block; background-image: linear-gradient(#d7ab28,#303030);
 color: transparent;
 background-clip: text;
 -webkit-background-clip: text;">Leetcode Solutions in C++</h1> 
 <h6>✯ Asked in recent Interviews</h6>
+<br>
+
+
 <hr style="height:1px; background-color:#d0d0d0; margin-bottom: 0px;">   
 <table>
  <thead>
@@ -44,14 +46,14 @@ background-clip: text;
 
 </tbody>
 </table>
+
+
+
 <footer>
   <hr style="height:1px; background-color:#d0d0d0; margin-top:50px">
   <br>
-  <div id="contact" style="border:0.01px dotted white; width:57rem; height:3rem; padding-bottom:3.4rem; text-align: left; position: relative; right:1rem; margin-bottom: 2rem; background-color:#ecf9fa; padding-left:1.5rem">
-    <h5 style="font-size: 22px; font-family:Algerian; color:#565554c1;">
-      <p style="display: inline; text-decoration: underline;">Prepared by</p>
-      <p style="display: inline;">  : Amogh Jain</p>
-    </h5>
+  <div id="contact">
+    <h4>Prepared by : Amogh Jain</h4>
   </div>
   <div style="width:87.25px; height:28px; margin: 8px 0px;">
     <a href="mailto:amoghjain04@gmail.com">
