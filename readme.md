@@ -36,6 +36,14 @@ background-clip: text;
    <td style="text-align:center;">Google ✯   Walmart ✯   Paytm ✯   Ola ✯   Linkedin ✯   Cisco   Zoho   ByteDance   Goldman Sachs   Mathworks   Oracle   Qualtrics   Salesforce   Snapchat   Uber   VMware   Facebook   Microsoft   Amazon   Apple   Bloomberg   Adobe   Atlassian   SAP Labs   Thought works   CoinDCX   BNY Mellon   Zomato   Rudder Analytics   Impetus   DTCC   Twilio   MONEY view   BYJUS   Jio Platform Limited   Directi   Cashfree Payments   SS SUPPLY CHAIN SOLUTIONS PVT LTD   Physicswallah company   Accoloite   CashKaro.com   Wheelseye Technology</td>
  </tr>
  <tr>
+   <td style="text-align:center;">403</td>
+   <td style="text-align:center;"><a href="https://leetcode.com/problems/frog-jump/">Frog Jump</a></td>
+   <td style="text-align:center;"><a href="./Codes/Frog_Jump/Frog_Jump.cpp">C++</a></td>
+   <td style="text-align:center;">Hard</td>
+   <td style="text-align:center;">Dynamic Programming Array</td>
+   <td style="text-align:center;"> Amazon ✯   Paypal ✯   Adobe ✯   Apple ✯   Bloomberg ✯   Facebook   Oracle   Salesforce   Snapchat   Yahoo   Microsoft   Infosys   SAP Labs   Arcesium   Publicis Sapient   CGI Inc.   Dunzo   Global Logic   Ikarus 3D   Google   ByteDance   tiktok  </td>
+ </tr>
+ <tr>
    <td style="text-align:center;">1324</td>
    <td style="text-align:center;"><a href="https://leetcode.com/problems/print-words-vertically">Print Words Vertically</a></td>
    <td style="text-align:center;"><a href="./Codes/Print_Words_Vertically/Print_Words_Vertically.cpp">C++</a></td>
@@ -43,7 +51,6 @@ background-clip: text;
    <td style="text-align:center;">Array String</td>
    <td style="text-align:center;">Microsoft ✯ Postmates ✯</td>
  </tr>
-
 </tbody>
 </table>
 
