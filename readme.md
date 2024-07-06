@@ -22,7 +22,7 @@ background-clip: text;
   <tr>
     <td>20</td>
     <td style="text-align:center;"><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
-    <td style="text-align:center;"><a href="./Codes/Valid_Parenthesis/Valid_Parenthesis.cpp">C++</a></td>
+    <td style="text-align:center;"><a href="./Codes/Valid_Parenthesis.cpp">C++</a></td>
     <td style="text-align:center;">Easy</td>
     <td style="text-align:center;">Stack</td>
     <td style="text-align:center;">Amazon ✯   LinkedIn ✯   Facebook ✯   Microsoft ✯   Bloomberg ✯   Spotify   Apple   Adobe   Expedia   Google   Oracle   VMware   Cisco   Intel   Yandex   tiktok   Arista Networks   Barclays   ServiceNow   Uber   Goldman Sachs   Booking.com   Salesforce   Netflix   Dataminr   tcs</td>
@@ -30,7 +30,7 @@ background-clip: text;
   <tr>
    <td style="text-align:center;" >62</td>
    <td style="text-align:center;"><a href="https://leetcode.com/problems/unique-paths/">Unique Paths</a></td>
-   <td style="text-align:center;"><a href="./Codes/Unique_Paths/Unique_Paths.cpp">C++</a></td>
+   <td style="text-align:center;"><a href="./Codes/Unique_Paths.cpp">C++</a></td>
    <td style="text-align:center;">Medium</td>
    <td style="text-align:center;">Dynamic Programming Math Combinatorics</td>
    <td style="text-align:center;">Google ✯   Walmart ✯   Paytm ✯   Ola ✯   Linkedin ✯   Cisco   Zoho   ByteDance   Goldman Sachs   Mathworks   Oracle   Qualtrics   Salesforce   Snapchat   Uber   VMware   Facebook   Microsoft   Amazon   Apple   Bloomberg   Adobe   Atlassian   SAP Labs   Thought works   CoinDCX   BNY Mellon   Zomato   Rudder Analytics   Impetus   DTCC   Twilio   MONEY view   BYJUS   Jio Platform Limited   Directi   Cashfree Payments   SS SUPPLY CHAIN SOLUTIONS PVT LTD   Physicswallah company   Accoloite   CashKaro.com   Wheelseye Technology</td>
@@ -38,7 +38,7 @@ background-clip: text;
  <tr>
    <td style="text-align:center;">403</td>
    <td style="text-align:center;"><a href="https://leetcode.com/problems/frog-jump/">Frog Jump</a></td>
-   <td style="text-align:center;"><a href="./Codes/Frog_Jump/Frog_Jump.cpp">C++</a></td>
+   <td style="text-align:center;"><a href="./Codes/Frog_Jump.cpp">C++</a></td>
    <td style="text-align:center;">Hard</td>
    <td style="text-align:center;">Dynamic Programming Array</td>
    <td style="text-align:center;"> Amazon ✯   Paypal ✯   Adobe ✯   Apple ✯   Bloomberg ✯   Facebook   Oracle   Salesforce   Snapchat   Yahoo   Microsoft   Infosys   SAP Labs   Arcesium   Publicis Sapient   CGI Inc.   Dunzo   Global Logic   Ikarus 3D   Google   ByteDance   tiktok  </td>
@@ -46,10 +46,18 @@ background-clip: text;
  <tr>
    <td style="text-align:center;">1324</td>
    <td style="text-align:center;"><a href="https://leetcode.com/problems/print-words-vertically">Print Words Vertically</a></td>
-   <td style="text-align:center;"><a href="./Codes/Print_Words_Vertically/Print_Words_Vertically.cpp">C++</a></td>
+   <td style="text-align:center;"><a href="./Codes/Print_Words_Vertically.cpp">C++</a></td>
    <td style="text-align:center;">Medium</td>
    <td style="text-align:center;">Array String</td>
    <td style="text-align:center;">Microsoft ✯ Postmates ✯</td>
+ </tr>
+ <tr>
+   <td style="text-align:center;">3207</td>
+   <td style="text-align:center;"><a href="https://leetcode.com/problems/maximum-points-after-enemy-battles">Maximum Points After Enemy Battles</a></td>
+   <td style="text-align:center;"><a href="./Codes/Maximum_Points_After_Enemy_Battles.cpp">C++</a></td>
+   <td style="text-align:center;">Medium</td>
+   <td style="text-align:center;">Greedy</td>
+   <td style="text-align:center;">-</td>
  </tr>
 </tbody>
 </table>
