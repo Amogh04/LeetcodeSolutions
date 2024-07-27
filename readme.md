@@ -56,7 +56,15 @@ background-clip: text;
    <td style="text-align:center;"><a href="https://leetcode.com/problems/maximum-points-after-enemy-battles">Maximum Points After Enemy Battles</a></td>
    <td style="text-align:center;"><a href="./Codes/Maximum_Points_After_Enemy_Battles.cpp">C++</a></td>
    <td style="text-align:center;">Medium</td>
-   <td style="text-align:center;">Greedy</td>
+   <td style="text-align:center;">Array Greedy</td>
+   <td style="text-align:center;">-</td>
+ </tr>
+ <tr>
+   <td style="text-align:center;">2685</td>
+   <td style="text-align:center;"><a href="https://leetcode.com/problems/count-the-number-of-complete-components">Count the Number of Complete Components</a></td>
+   <td style="text-align:center;"><a href="./Codes/Count_the_Number_of_Complete_Components.cpp">C++</a></td>
+   <td style="text-align:center;">Medium</td>
+   <td style="text-align:center;">DFS BFS Graph</td>
    <td style="text-align:center;">-</td>
  </tr>
 </tbody>
