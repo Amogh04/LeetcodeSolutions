@@ -44,6 +44,22 @@ background-clip: text;
    <td style="text-align:center;"> Amazon ✯   Paypal ✯   Adobe ✯   Apple ✯   Bloomberg ✯   Facebook   Oracle   Salesforce   Snapchat   Yahoo   Microsoft   Infosys   SAP Labs   Arcesium   Publicis Sapient   CGI Inc.   Dunzo   Global Logic   Ikarus 3D   Google   ByteDance   tiktok  </td>
  </tr>
  <tr>
+   <td style="text-align:center;">547</td>
+   <td style="text-align:center;"><a href="https://leetcode.com/problems/number-of-provinces">Number of Provinces</a></td>
+   <td style="text-align:center;"><a href="./Codes/Number_of_Provinces.cpp">C++</a></td>
+   <td style="text-align:center;">Hard</td>
+   <td style="text-align:center;">BFS DFS Union Find Graph</td>
+   <td style="text-align:center;"> Google ✯   Uber ✯   Intuit ✯   Amazon ✯   Samsung ✯   Walmart   Navi </td>
+ </tr>
+ <tr>
+   <td style="text-align:center;">1020</td>
+   <td style="text-align:center;"><a href="https://leetcode.com/problems/number-of-enclaves">Number of Enclaves</a></td>
+   <td style="text-align:center;"><a href="./Codes/Number_of_Enclaves.cpp">C++</a></td>
+   <td style="text-align:center;">Medium</td>
+   <td style="text-align:center;">Array BFS DFS Union Find Matrix</td>
+   <td style="text-align:center;">Google ✯</td>
+ </tr>
+ <tr>
    <td style="text-align:center;">1324</td>
    <td style="text-align:center;"><a href="https://leetcode.com/problems/print-words-vertically">Print Words Vertically</a></td>
    <td style="text-align:center;"><a href="./Codes/Print_Words_Vertically.cpp">C++</a></td>
@@ -52,19 +68,19 @@ background-clip: text;
    <td style="text-align:center;">Microsoft ✯ Postmates ✯</td>
  </tr>
  <tr>
-   <td style="text-align:center;">3207</td>
-   <td style="text-align:center;"><a href="https://leetcode.com/problems/maximum-points-after-enemy-battles">Maximum Points After Enemy Battles</a></td>
-   <td style="text-align:center;"><a href="./Codes/Maximum_Points_After_Enemy_Battles.cpp">C++</a></td>
-   <td style="text-align:center;">Medium</td>
-   <td style="text-align:center;">Array Greedy</td>
-   <td style="text-align:center;">-</td>
- </tr>
- <tr>
    <td style="text-align:center;">2685</td>
    <td style="text-align:center;"><a href="https://leetcode.com/problems/count-the-number-of-complete-components">Count the Number of Complete Components</a></td>
    <td style="text-align:center;"><a href="./Codes/Count_the_Number_of_Complete_Components.cpp">C++</a></td>
    <td style="text-align:center;">Medium</td>
    <td style="text-align:center;">DFS BFS Graph</td>
+   <td style="text-align:center;">-</td>
+ </tr>
+ <tr>
+   <td style="text-align:center;">3207</td>
+   <td style="text-align:center;"><a href="https://leetcode.com/problems/maximum-points-after-enemy-battles">Maximum Points After Enemy Battles</a></td>
+   <td style="text-align:center;"><a href="./Codes/Maximum_Points_After_Enemy_Battles.cpp">C++</a></td>
+   <td style="text-align:center;">Medium</td>
+   <td style="text-align:center;">Array Greedy</td>
    <td style="text-align:center;">-</td>
  </tr>
 </tbody>
