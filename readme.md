@@ -47,9 +47,17 @@ background-clip: text;
    <td style="text-align:center;">547</td>
    <td style="text-align:center;"><a href="https://leetcode.com/problems/number-of-provinces">Number of Provinces</a></td>
    <td style="text-align:center;"><a href="./Codes/Number_of_Provinces.cpp">C++</a></td>
-   <td style="text-align:center;">Hard</td>
+   <td style="text-align:center;">Medium</td>
    <td style="text-align:center;">BFS DFS Union Find Graph</td>
    <td style="text-align:center;"> Google ✯   Uber ✯   Intuit ✯   Amazon ✯   Samsung ✯   Walmart   Navi </td>
+ </tr>
+ <tr>
+   <td style="text-align:center;">785</td>
+   <td style="text-align:center;"><a href="https://leetcode.com/problems/number-of-provinces">Is Graph Bipartite?</a></td>
+   <td style="text-align:center;"><a href="./Codes/Is_Graph_Bipartite.cpp">C++</a></td>
+   <td style="text-align:center;">Medium</td>
+   <td style="text-align:center;">BFS DFS Union Find Graph</td>
+   <td style="text-align:center;"> Samsung ✯   Infosys ✯   Facebook ✯   PegaSystems ✯   Goldman Sachs ✯   Uber   eBay   Walmart   OYO   Triology   Bunzo  </td>
  </tr>
  <tr>
    <td style="text-align:center;">1020</td>
@@ -106,5 +114,5 @@ background-clip: text;
   </div>
 </footer>
 
-
+  
 
