@@ -53,7 +53,7 @@ background-clip: text;
  </tr>
  <tr>
    <td style="text-align:center;">785</td>
-   <td style="text-align:center;"><a href="https://leetcode.com/problems/number-of-provinces">Is Graph Bipartite?</a></td>
+   <td style="text-align:center;"><a href="https://leetcode.com/problems/is-graph-bipartite">Is Graph Bipartite?</a></td>
    <td style="text-align:center;"><a href="./Codes/Is_Graph_Bipartite.cpp">C++</a></td>
    <td style="text-align:center;">Medium</td>
    <td style="text-align:center;">BFS DFS Union Find Graph</td>
@@ -74,6 +74,14 @@ background-clip: text;
    <td style="text-align:center;">Medium</td>
    <td style="text-align:center;">Array String</td>
    <td style="text-align:center;">Microsoft ✯ Postmates ✯</td>
+ </tr>
+ <tr>
+   <td style="text-align:center;">2326</td>
+   <td style="text-align:center;"><a href="https://leetcode.com/problems/spiral-matrix-iv/">Spiral Matrix IV</a></td>
+   <td style="text-align:center;"><a href="./Codes/Spiral_Matrix_IV.cpp">C++</a></td>
+   <td style="text-align:center;">Medium</td>
+   <td style="text-align:center;">Array Linked List Matrix</td>
+   <td style="text-align:center;">-</td>
  </tr>
  <tr>
    <td style="text-align:center;">2685</td>

@@ -32,14 +32,14 @@ public:
 
 Intuition
 using DFS
-
+    
 Approach
 ---> We use a counter which we name flag.
 ---> This counter will alternate between 1 and 2 when we traverse through the graph using DFS
----> The only condition when the graph is not biparite is when there is a cycle in which number of nodes is odd.
+---> The only condition when the graph is not Bipartite is when there is a cycle in which number of nodes is odd.
 ---> So, we check this condition as we traverse, we set the map to be equal to the counter of that node (1 or 2).
 ---> Now, when we traverse and reach the same node through a cycle, the counter will not be equal if number of nodes in that path is odd.
----> So we detect the condition that the graph is not Biparite.
+---> So we detect the condition that the graph is not Bipartite.
 
 Complexity
 
