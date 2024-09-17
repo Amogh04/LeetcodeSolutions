@@ -20,6 +20,14 @@ background-clip: text;
 </thead>
 <tbody>
   <tr>
+    <td>2</td>
+    <td style="text-align:center;"><a href="https://leetcode.com/problems/add-two-numbers/">Add Two Numbers</a></td>
+    <td style="text-align:center;"><a href="./Codes/Add_Two_Numbers.cpp">C++</a></td>
+    <td style="text-align:center;">Medium</td>
+    <td style="text-align:center;">Linked List Math Recursion</td>
+    <td style="text-align:center;"> Amazon ✯   Apple ✯   Facebook ✯   Microsoft ✯   Bloomberg ✯   Google   Adobe   Yahoo   Oracle   Uber   JPMorgan   SAP   Capital One   Visa   Huawei  </td>
+  </tr>
+  <tr>
     <td>20</td>
     <td style="text-align:center;"><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
     <td style="text-align:center;"><a href="./Codes/Valid_Parenthesis.cpp">C++</a></td>
@@ -34,6 +42,14 @@ background-clip: text;
    <td style="text-align:center;">Medium</td>
    <td style="text-align:center;">Dynamic Programming Math Combinatorics</td>
    <td style="text-align:center;">Google ✯   Walmart ✯   Paytm ✯   Ola ✯   Linkedin ✯   Cisco   Zoho   ByteDance   Goldman Sachs   Mathworks   Oracle   Qualtrics   Salesforce   Snapchat   Uber   VMware   Facebook   Microsoft   Amazon   Apple   Bloomberg   Adobe   Atlassian   SAP Labs   Thought works   CoinDCX   BNY Mellon   Zomato   Rudder Analytics   Impetus   DTCC   Twilio   MONEY view   BYJUS   Jio Platform Limited   Directi   Cashfree Payments   SS SUPPLY CHAIN SOLUTIONS PVT LTD   Physicswallah company   Accoloite   CashKaro.com   Wheelseye Technology</td>
+ </tr>
+ <tr>
+   <td style="text-align:center;">160</td>
+   <td style="text-align:center;"><a href="https://leetcode.com/problems/intersection-of-two-linked-lists">Intersection of Two Linked Lists</td>
+   <td style="text-align:center;"><a href="./Codes/Intersection_of_Two_Linked_Lists.cpp">C++</a></td>
+   <td style="text-align:center;">Easy</td>
+   <td style="text-align:center;">Hash Table Linked List Two Pointers</td>
+   <td style="text-align:center;"> Microsoft ✯   Amazon ✯   LinkedIn ✯   Facebook ✯   Adobe ✯   Nvidia   tiktok   Airbnb  </td>
  </tr>
  <tr>
    <td style="text-align:center;">403</td>
@@ -121,6 +137,4 @@ background-clip: text;
     </a>
   </div>
 </footer>
-
-  
 
